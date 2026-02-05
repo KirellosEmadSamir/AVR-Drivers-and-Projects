@@ -29,8 +29,8 @@ Core drivers included
 - 🎛 ADC Driver
   Reading analog values from sensors
 
-> All drivers are written in Embedded C, following clean coding practices
-> and keeping application-specific logic outside the driver layer.
+-  All drivers are written in Embedded C, following clean coding practices
+  and keeping application-specific logic outside the driver layer.
 
 --------------------------------------------
 
