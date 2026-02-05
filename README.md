@@ -15,7 +15,9 @@ The goal is to help you:
 - Separate hardware control from application logic
 - Build projects the same way professional embedded systems are built
 
-Core drivers included
+- 
+
+- Core drivers included:
 
 - 🔌 GPIO Driver
   Digital input/output control for microcontroller pins
