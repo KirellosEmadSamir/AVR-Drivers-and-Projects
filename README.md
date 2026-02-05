@@ -25,9 +25,9 @@ Each driver is implemented following embedded systems best practices, with a cle
 
 The projects are organized by difficulty level to ensure smooth learning progress.
 
-Beginner level focuses on understanding peripherals and basic control logic.  
-Intermediate level introduces communication and multi-module interaction.  
-Advanced level focuses on full system integration and decision-making.
+- Beginner level focuses on understanding peripherals and basic control logic.  
+- Intermediate level introduces communication and multi-module interaction.  
+- Advanced level focuses on full system integration and decision-making.
 
 This progression helps you move from simple concepts to real embedded system thinking.
 
