@@ -79,11 +79,11 @@ Here, the emphasis is on architecture, not just functionality.
 
 This repository uses the following tools and references:
 
-🧰 Microcontroller:** ATmega32
-💻 IDE:Atmel Studio / Microchip Studio
-⚙ Compiler:AVR-GCC
-🔬 Simulation:Proteus
-📄 Reference:ATmega32 Datasheet
+🧰 Microcontroller: ATmega32
+💻 IDE: Atmel Studio / Microchip Studio
+⚙ Compiler: AVR-GCC
+🔬 Simulation: Proteus
+📄 Reference: ATmega32 Datasheet
 
 ------------------------
 
