@@ -17,16 +17,16 @@ The goal is to help you:
 
 Core drivers included
 
-🔌 GPIO Driver
+- 🔌 GPIO Driver
   Digital input/output control for microcontroller pins
 
-⏱ Timer Driver
+- ⏱ Timer Driver
   Delays, periodic interrupts, and PWM generation
 
-📡 UART Driver
+- 📡 UART Driver
   Serial communication between microcontrollers and external devices
 
-* 🎛 ADC Driver
+- 🎛 ADC Driver
   Reading analog values from sensors
 
 > All drivers are written in Embedded C, following clean coding practices
