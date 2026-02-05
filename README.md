@@ -16,7 +16,7 @@ The goal is to help you:
 - Separate hardware control from application logic
 - Build projects the same way professional embedded systems are built
 
-  --------------------------------------------
+--------------------------------------------
 
 Core drivers included:
 
