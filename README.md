@@ -89,10 +89,10 @@ This repository uses the following tools and references:
 
 🌟 Who This Repository Is For
 
-✔ Beginners starting their embedded systems journey
-✔ Engineering students learning microcontrollers
-✔ Self-learners building a solid portfolio
-✔ Anyone who wants more than just “LED blinking” examples
+- ✔ Beginners starting their embedded systems journey
+- ✔ Engineering students learning microcontrollers
+- ✔ Self-learners building a solid portfolio
+- ✔ Anyone who wants more than just “LED blinking” examples
 
 ---------------
 
@@ -105,7 +105,7 @@ This repository uses the following tools and references:
 
 ---
 
-## 📈 Future Plans
+#📈 Future Plans
 
 - [ ] Add more beginner-friendly content
 - [ ] [ ] Improve documentation and block diagrams
