@@ -1,5 +1,5 @@
 
-🧩 Driver Library – The Core Foundation 🧱
+🧩AVR-Drivers-and-Projects– The Core Foundation 🧱
 
 This repository is built around a reusable and modular driver library located under:
 
