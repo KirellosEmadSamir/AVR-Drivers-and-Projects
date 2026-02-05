@@ -8,14 +8,14 @@ This repository is built around a reusable and modular driver library located un
 
 Instead of writing low-level code again and again, all projects rely on this shared library to interact with the hardware in a clean and organized way.
 
-The goal is to help you:
+- The goal is to help you:
 
 - Understand how the ATmega32 works at a low level
 - Write reusable and scalable embedded code
 - Separate hardware control from application logic
 - Build projects the same way professional embedded systems are built
 
-- 
+  
 
 - Core drivers included:
 
