@@ -78,7 +78,7 @@ Here, the emphasis is on architecture, not just functionality.
 
 -----------------
 
-#🛠 Tools & Development Environment
+🛠 Tools & Development Environment
 
 This repository uses the following tools and references:
 
@@ -108,7 +108,7 @@ This repository uses the following tools and references:
 
 ---
 
-#📈 Future Plans
+📈 Future Plans
 
 - [ ] Add more beginner-friendly content
 - [ ] [ ] Improve documentation and block diagrams
